@@ -12,7 +12,36 @@ Here is number of chunks, file size size and execution time (MacBook Pro 2.3 GHz
 ## Usage
 
 ```
-node testFileGenerator.js
+node testGenerator.js
 ```
 
 It creates file named ```quotes.txt``` in the working directory.
+
+## Output file demo
+
+```
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta ap
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam illo porro 
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam illo porro s
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam illo porro soluta ad alia
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam illo porro soluta ad alias
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam i
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam illo porr
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat d
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, quaerat dicta aperiam 
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est err
+%
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam assumenda, beatae explicabo unde labore voluptatibus doloribus, debitis maxime est error eveniet, qu
+%
+```
